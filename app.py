@@ -117,15 +117,22 @@ lr_pred = lr.predict(X_test)[0]
 rf_pred = rf.predict(X_test)[0]
 
 def metrics(y, yhat):
+    mae = mean_absolute_error([y], [yhat])
+    mse = mean_squared_error([y], [yhat])
+    rmse = np.sqrt(mse)  # Calculate RMSE manually
+    mape = np.mean(np.abs((y - yhat) / y)) * 100
+    
     return {
-        "MAE": mean_absolute_error([y], [yhat]),
-        "RMSE": mean_squared_error([y], [yhat], squared=False),
-        "MAPE (%)": np.mean(np.abs((y - yhat) / y)) * 100
+        "MAE": mae,
+        "RMSE": rmse,
+        "MAPE (%)": mape
     }
 
 st.subheader("📈 Model Performance on Test Year")
-st.write("### Linear Regression", metrics(y_test, lr_pred))
-st.write("### Random Forest", metrics(y_test, rf_pred))
+st.write("### Linear Regression")
+st.write(metrics(y_test, lr_pred))
+st.write("### Random Forest")
+st.write(metrics(y_test, rf_pred))
 
 # ---- FORECAST NEXT YEAR ----
 st.header("📅 Forecast Next Year Yield")
