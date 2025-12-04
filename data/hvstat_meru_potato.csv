@@ -1,0 +1,19 @@
+fnid,country,country_code,admin_1,admin_2,product,season_name,planting_year,planting_month,harvest_year,harvest_month,crop_production_system,qc_flag,area,production,yield
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2013,1,2012,12,All (PS),0,15240.0,159539.0,10.468438320209971
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2014,1,2013,12,All (PS),0,14916.0,157503.5,10.559365781710914
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2015,1,2014,12,All (PS),0,16120.0,129047.0,8.005397022332506
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2016,1,2015,12,All (PS),0,15447.0,80608.0,5.218359552016572
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2017,1,2016,12,All (PS),0,16509.0,131028.4,7.936785995517596
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2018,1,2017,12,All (PS),0,17413.5,130102.3,7.471346943463405
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2019,1,2018,12,All (PS),0,17440.5,130184.75,7.464507898282733
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2020,1,2019,12,All (PS),0,21016.8,141926.15,6.7529857066727565
+KE2013A112,Kenya,KE,Meru,none,Potato,Annual,2021,1,2020,12,All (PS),0,17392.0,224746.8,12.922424103035878
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2013,1,2012,12,All (PS),0,1326.0,9714.0,7.32579185520362
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2014,1,2013,12,All (PS),0,1230.0,8518.0,6.92520325203252
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2015,1,2014,12,All (PS),0,863.0,10508.0,12.176129779837774
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2016,1,2015,12,All (PS),0,813.0,6395.0,7.865928659286593
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2017,1,2016,12,All (PS),0,678.0,5384.1,7.941150442477877
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2018,1,2017,12,All (PS),0,1046.5,10133.1,9.682847587195411
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2019,1,2018,12,All (PS),0,1093.0,9697.8,8.872644098810612
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2020,1,2019,12,All (PS),0,1118.0,10314.0,9.225402504472273
+KE2013A112,Kenya,KE,Meru,none,Sweet Potatoes,Annual,2021,1,2020,12,All (PS),0,865.0,7457.8,8.621734104046244
